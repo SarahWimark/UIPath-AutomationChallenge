@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Uoht3K1Zb8EH4Vu6G+wIDgak5jDtS9JWrugffM66FkZYgBjojqTLuvcANRrGItCBcL6cdR2bQjn1MITT8xx6A==",
+  "dgSpecHash": "istd5InzKx6AzAYH/Rzcyy+pxJ2WOMXMvdmrmu/NtqBH5M7Z572mFf8RdVfdEA6m45XxgzLOok3yGO/5W7lRBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sarah\\Desktop\\UIPath\\Robots\\Automation Challenge\\AutomationChallenge\\.local\\",
+  "projectFilePath": "C:\\Users\\sarah\\Desktop\\RPA\\UIPath\\Robots\\Automation Challenge\\AutomationChallenge\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\sarah\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\sarah\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
